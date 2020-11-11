@@ -2,6 +2,8 @@
 
 # COVID CARE 
 
+PUBLIC FIGMA LINK: https://www.figma.com/file/M4zpJcfFnTzGWl88NrO7vL/Samina-Khaliq-Covid-App?node-id=4%3A1409
+
 Developed to meet the pandemic needs of Canadian users. 
 
 ![Alt text](https://github.com/saminakhaliq/CovidCare/blob/main/App%20Screenshots/Login.png "Login")
