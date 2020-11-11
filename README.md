@@ -2,7 +2,7 @@
 
 # COVID CARE 
 
-PUBLIC FIGMA LINK: https://www.figma.com/file/M4zpJcfFnTzGWl88NrO7vL/Samina-Khaliq-Covid-App?node-id=4%3A1409
+PUBLIC FIGMA LINK: https://www.figma.com/file/BqFp1ELQ0iwtfjPWfPQ7bH/Samina-Khaliq-Covid-Care?node-id=0%3A1
 
 Developed to meet the pandemic needs of Canadian users. 
 
