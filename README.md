@@ -1,6 +1,10 @@
 # Covid Care
 Human Interaction - Covid Care Figma Prototype
 
+# LOGIN AND DASH
+
+![Alt text](https://github.com/saminakhaliq/CovidCare/blob/main/App%20Screenshots/LoginDash.png "Login & Dash")
+
 # NEW FEATURE 1: Promote COVID-safe activities around user's area 
 
 Help local businesses by promoting events happening in or around a user's area – these events allow a user to distance and have fun! The register button will open link to businesse's event page. 
@@ -26,11 +30,17 @@ The Daily Reel aims to lessen content and news overload by offering a look at th
 
 ![Alt text](https://github.com/saminakhaliq/CovidCare/blob/main/App%20Screenshots/Feature4.png "Feature 4")
 
-# NEW FEATURE 4: MAP-GRAPH Toggle
+# NEW FEATURE 5: MAP-GRAPH Toggle
 
 Toggle between the map and graph of a localities coronavirus cases to view the trends more easily. 
 
 ![Alt text](https://github.com/saminakhaliq/CovidCare/blob/main/App%20Screenshots/Feature5.png "Feature 5")
+
+# VOLUNTEER PORTAL 
+
+![Alt text](https://github.com/saminakhaliq/CovidCare/blob/main/App%20Screenshots/VolunteerPortal.png "Volunteer Portal")
+
+
 
 
 
