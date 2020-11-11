@@ -16,7 +16,7 @@ There are a plethora of guides on what to do to prevent spread and where to go i
 
 # NEW FEATURE 3: COVID relief from government and other organizations (local, non-profit)
 
-Includes an assessment that is kept up-to-date to reflect the COVID-relief benfits a user is eligible for along with links to organizations in uder's area offering assitance/aid. 
+Includes an assessment that is kept up-to-date to reflect the COVID-relief benfits a user is eligible for along with links to organizations in user's area offering assistance/aid. 
 
 ![Alt text](https://github.com/saminakhaliq/CovidCare/blob/main/App%20Screenshots/Feature3.png "Feature 3")
 
