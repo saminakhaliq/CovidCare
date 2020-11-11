@@ -42,9 +42,9 @@ Toggle between the map and graph of a localities coronavirus cases to view the t
 
 Volunteer portal for vulnerable to get help from local residents in their area. Offers help board, in-app messaging, and request status updates. 
 
-![Alt text](https://github.com/saminakhaliq/CovidCare/blob/main/App%20Screenshots/VolunteerPortal.png "Volunteer Portal")
+![Alt text](https://github.com/saminakhaliq/CovidCare/blob/main/App%20Screenshots/VolunteerPortal-1.png "Volunteer Portal")
 
-
+![Alt text](https://github.com/saminakhaliq/CovidCare/blob/main/App%20Screenshots/VolunteerPortal-2.png "Volunteer Portal")
 
 
 
