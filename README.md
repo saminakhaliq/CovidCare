@@ -20,6 +20,11 @@ Includes an assessment that is kept up-to-date to reflect the COVID-relief benfi
 
 ![Alt text](https://github.com/saminakhaliq/CovidCare/blob/main/App%20Screenshots/Feature3.png "Feature 3")
 
+# NEW FEATURE 4: Digestible news reel
+
+The Daily Reel aims to lessen content and news overload by offering a look at the day through key pertinent headlines for the user based on location. 
+
+![Alt text](https://github.com/saminakhaliq/CovidCare/blob/main/App%20Screenshots/Feature4.png "Feature 4")
 
 
 
