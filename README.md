@@ -4,6 +4,10 @@
 
 PUBLIC FIGMA LINK: https://www.figma.com/file/BqFp1ELQ0iwtfjPWfPQ7bH/Samina-Khaliq-Covid-Care?node-id=0%3A1
 
+YOUTUBE DEMO: https://youtu.be/7AprkVPH0iY
+
+# DESCRIPTION 
+
 Developed to meet the pandemic needs of Canadian users. 
 
 ![Alt text](https://github.com/saminakhaliq/CovidCare/blob/main/App%20Screenshots/Login.png "Login")
