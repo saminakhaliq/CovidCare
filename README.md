@@ -3,6 +3,8 @@ Human Interaction - Covid Care Figma Prototype
 
 # LOGIN AND DASH
 
+The following shows login and dashboard of Covid Care App, made specifically for Canadian users. 
+
 ![Alt text](https://github.com/saminakhaliq/CovidCare/blob/main/App%20Screenshots/LoginDash.png "Login & Dash")
 
 # NEW FEATURE 1: Promote COVID-safe activities around user's area 
@@ -37,6 +39,8 @@ Toggle between the map and graph of a localities coronavirus cases to view the t
 ![Alt text](https://github.com/saminakhaliq/CovidCare/blob/main/App%20Screenshots/Feature5.png "Feature 5")
 
 # VOLUNTEER PORTAL 
+
+Volunteer portal for vulnerable to get help from local residents in their area. Offers help board, in-app messaging, and request status updates. 
 
 ![Alt text](https://github.com/saminakhaliq/CovidCare/blob/main/App%20Screenshots/VolunteerPortal.png "Volunteer Portal")
 
