@@ -4,7 +4,7 @@
 
 PUBLIC FIGMA LINK: https://www.figma.com/file/BqFp1ELQ0iwtfjPWfPQ7bH/Samina-Khaliq-Covid-Care?node-id=0%3A1
 
-YOUTUBE DEMO: https://youtu.be/7AprkVPH0iY
+VIDEO DEMO: https://www.dropbox.com/s/bpyp19ryk84o4vb/HCI-Assignment2.mp4?dl=0
 
 # DESCRIPTION 
 
