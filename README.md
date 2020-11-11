@@ -26,7 +26,11 @@ The Daily Reel aims to lessen content and news overload by offering a look at th
 
 ![Alt text](https://github.com/saminakhaliq/CovidCare/blob/main/App%20Screenshots/Feature4.png "Feature 4")
 
+# NEW FEATURE 4: MAP-GRAPH Toggle
 
+Toggle between the map and graph of a localities coronavirus cases to view the trends more easily. 
+
+![Alt text](https://github.com/saminakhaliq/CovidCare/blob/main/App%20Screenshots/Feature5.png "Feature 5")
 
 
 
