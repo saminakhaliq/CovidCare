@@ -13,3 +13,4 @@ There are a plethora of guides on what to do to prevent spread and where to go i
 
 ![Alt text](https://github.com/saminakhaliq/CovidCare/blob/main/App%20Screenshots/Feature2.png "Feature 2")
 
+
